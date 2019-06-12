@@ -1,0 +1,115 @@
+pytorch
+numpy
+tqdm
+
+
+# Here i listed all packages that were installed in the anaconda version used for implementation
+# Python 3.6.7 |Anaconda, Inc.| (default, Oct 23 2018, 19:16:44)
+#
+# # Name                    Version                   Build  Channel
+# absl-py                   0.6.1                     <pip>
+# asn1crypto                0.24.0                   py36_0
+# astor                     0.7.1                     <pip>
+# blas                      1.0                         mkl
+# ca-certificates           2018.03.07                    0
+# certifi                   2018.11.29               py36_0
+# cffi                      1.11.5           py36he75722e_1
+# chardet                   3.0.4                    py36_1
+# cryptography              2.5              py36h1ba5d50_0
+# cycler                    0.10.0                   py36_0
+# cymem                     2.0.2            py36hfd86e86_0
+# cytoolz                   0.9.0.1          py36h14c3975_1
+# dbus                      1.13.6               h746ee38_0
+# dill                      0.2.9                    py36_0
+# expat                     2.2.6                he6710b0_0
+# fontconfig                2.13.0               h9420a91_0
+# freetype                  2.9.1                h8a8886c_1
+# gast                      0.2.0                     <pip>
+# glib                      2.56.2               hd408876_0
+# grpcio                    1.17.1                    <pip>
+# gst-plugins-base          1.14.0               hbbd80ab_1
+# gstreamer                 1.14.0               hb453b48_1
+# h5py                      2.9.0                     <pip>
+# icu                       58.2                 h9c2bf20_1
+# idna                      2.8                      py36_0
+# intel-openmp              2019.1                      144
+# jpeg                      9b                   h024ee3a_2
+# Keras                     2.2.4                     <pip>
+# Keras-Applications        1.0.6                     <pip>
+# Keras-Preprocessing       1.0.5                     <pip>
+# kiwisolver                1.1.0            py36he6710b0_0
+# libedit                   3.1.20170329         h6b74fdf_2
+# libffi                    3.2.1                hd88cf55_4
+# libgcc-ng                 8.2.0                hdf63c60_1
+# libgfortran-ng            7.3.0                hdf63c60_0
+# libpng                    1.6.35               hbc83047_0
+# libstdcxx-ng              8.2.0                hdf63c60_1
+# libtiff                   4.0.9                he85c1e1_2
+# libuuid                   1.0.3                h1bed415_2
+# libxcb                    1.13                 h1bed415_1
+# libxml2                   2.9.9                he19cac6_0
+# Markdown                  3.0.1                     <pip>
+# matplotlib                3.0.2            py36h5429711_0
+# mkl                       2018.0.3                      1
+# mkl_fft                   1.0.6            py36h7dd41cf_0
+# mkl_random                1.0.1            py36h4414c95_1
+# mord                      0.6                       <pip>
+# msgpack-numpy             0.4.3.2                  py36_0
+# msgpack-python            0.6.1            py36hfd86e86_1
+# murmurhash                1.0.2            py36he6710b0_0
+# ncurses                   6.1                  hf484d3e_0
+# ninja                     1.8.2            py36h6bb024c_1
+# nltk                      3.4                       <pip>
+# numpy                     1.15.4           py36h1d66e8a_0
+# numpy-base                1.15.4           py36h81de0dd_0
+# olefile                   0.46                     py36_0
+# openssl                   1.1.1a               h7b6447c_0
+# pcre                      8.43                 he6710b0_0
+# pexpect                   4.2.1                     <pip>
+# pillow                    5.3.0            py36h34e0f95_0
+# pip                       18.1                     py36_0
+# plac                      0.9.6                    py36_0
+# preshed                   2.0.1            py36he6710b0_0
+# prettytable               0.7.2                     <pip>
+# protobuf                  3.6.1                     <pip>
+# ptyprocess                0.6.0                     <pip>
+# pycparser                 2.19                     py36_0
+# pyopenssl                 19.0.0                   py36_0
+# pyparsing                 2.4.0                      py_0
+# pyqt                      5.9.2            py36h05f1152_2
+# pysocks                   1.7.0                    py36_0
+# python                    3.6.7                h0371630_0
+# python-dateutil           2.8.0                    py36_0
+# pytorch                   1.0.0           py3.6_cuda9.0.176_cudnn7.4.1_1    pytorch
+# pytz                      2019.1                     py_0
+# PyYAML                    3.13                      <pip>
+# qt                        5.9.7                h5867ecd_1
+# readline                  7.0                  h7b6447c_5
+# regex                     2019.04.14       py36h7b6447c_0
+# regex                     2018.11.7                 <pip>
+# requests                  2.21.0                   py36_0
+# scikit-learn              0.20.0                    <pip>
+# scipy                     1.1.0                     <pip>
+# setuptools                40.6.2                   py36_0
+# singledispatch            3.4.0.3                   <pip>
+# sip                       4.19.8           py36hf484d3e_0
+# six                       1.11.0                   py36_1
+# spacy                     2.0.16           py36h962f231_0
+# sqlite                    3.25.3               h7b6447c_0
+# tensorboard               1.12.1                    <pip>
+# tensorflow-gpu            1.12.0                    <pip>
+# termcolor                 1.1.0                     <pip>
+# thinc                     6.12.1           py36h4989274_0
+# tk                        8.6.8                hbc83047_0
+# toolz                     0.9.0                    py36_0
+# torchvision               0.2.1                      py_2    pytorch
+# tornado                   6.0.2            py36h7b6447c_0
+# tqdm                      4.31.1                   py36_1
+# tqdm                      4.28.1                    <pip>
+# ujson                     1.35             py36h14c3975_0
+# urllib3                   1.24.2                   py36_0
+# Werkzeug                  0.14.1                    <pip>
+# wheel                     0.32.3                   py36_0
+# wrapt                     1.10.11          py36h14c3975_2
+# xz                        5.2.4                h14c3975_4
+# zlib                      1.2.11               ha838bed_2

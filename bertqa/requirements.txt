@@ -1,0 +1,15 @@
+# BERT:
+# tensorflow >= 1.11.0   # CPU Version of TensorFlow.
+tensorflow-gpu  >= 1.11.0  # GPU version of TensorFlow.
+
+
+# DrQA:
+numpy
+scikit-learn
+regex
+tqdm
+prettytable
+scipy
+nltk
+elasticsearch
+pexpect==4.2.1
