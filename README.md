@@ -1,7 +1,7 @@
 # RankQA: Neural Question Answering with Answer Re-Ranking
 This is the PyTorch implementation of the ACL 2019 paper [RankQA: Neural Question Answering with Answer Re-Ranking](https://arxiv.org/abs/1906.03008)
 
-<p align="center"><img width="50%" src="img/rankqa.png" /></p>
+<p align="center"><img width="80%" src="img/rankqa.png" /></p>
 
 
 The conventional paradigm in neural question answering (QA) for narrative content is limited to a two-stage process: first, relevant text passages are retrieved and, subsequently, a neural network for machine comprehension extracts the likeliest answer. However, both stages are largely isolated in the status quo and, hence, information from the two phases is never properly fused. In contrast, this work proposes RankQA: RankQA extends the conventional two-stage process in neural QA with a third stage that performs an additional answer re-ranking. The re-ranking leverages different features that are directly extracted from the QA pipeline, i.e., a combination of retrieval and comprehension features. While our intentionally simple design allows for an efficient, data-sparse estimation, it nevertheless outperforms more complex QA systems by a significant margin.
