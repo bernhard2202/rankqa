@@ -47,8 +47,8 @@ def get_question_type_features(sample):
     if qwords[0].lower() in Q_TYPE:
         vec[Q_TYPE[qwords[0].lower()]] = 1
         other = False
-    if ' '.join(list(map(lambda x: x.lower(), qwords[0:1]))) in Q_TYPE:
-        vec[Q_TYPE[' '.join(list(map(lambda x: x.lower(), qwords[0:1])))]] = 1
+    if ' '.join(list(map(lambda x: x.lower(), qwords[0:2]))) in Q_TYPE:
+        vec[Q_TYPE[' '.join(list(map(lambda x: x.lower(), qwords[0:2])))]] = 1
         other = False
     if other:
         vec[Q_TYPE['other']] = 1
