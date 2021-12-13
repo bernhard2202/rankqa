@@ -5,7 +5,7 @@ This part of the repository contains code to train and evaluate the re-ranking m
 ## Quick Setup
 
 1. Install requirements in `requirements.txt`. The file also provides a complete list of python packages that were installed in the conda environment used during implementation.
-2. Download features from [HERE](https://mgtvgsgb.livedrive.com/item/0987ec25f8c044bfa0ba738e7e025f1c) (compressed 3.6 GB). You can find more details about those features below.
+2. Download features from [HERE](https://mgtvgsgb.livedrive.com/item/0987ec25f8c044bfa0ba738e7e025f1c) (compressed 3.6 GB) or in 100MB junks from [HERE](https://public.livedrive.com/portal/public-shares/mgtvgsgb/*_ZGU2YTk3NTAwZTQ4NGI0MmJlNzQzMDYxODlhYTcxYTY=). You can find more details about those features below.
 3. Extract the compressed file to `./features`
 4. Create an empty folder `out`
 5. Run `python run.py` 
